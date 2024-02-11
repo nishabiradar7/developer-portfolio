@@ -1,7 +1,7 @@
 export const skillsData = [
-    'HTML',
-    'Figma',
-    'Javascript',
+    'Python',
+    'Java',
+    'AWS',
     'CSS',
     'React',
     'Docker',
